@@ -20,15 +20,6 @@
         }
       },
       {
-        "package": "Datable",
-        "repositoryURL": "https://github.com/OperatorFoundation/Datable.git",
-        "state": {
-          "branch": null,
-          "revision": "b8d528a7ab46c5e56ab324ab602ac12237bdedb6",
-          "version": "1.0.1"
-        }
-      },
-      {
         "package": "HKDFKit",
         "repositoryURL": "https://github.com/OperatorFoundation/HKDFKit.git",
         "state": {
@@ -42,8 +33,8 @@
         "repositoryURL": "https://github.com/Bouke/INI",
         "state": {
           "branch": null,
-          "revision": "668f9152f8ca24bd024f77ef7d81388724ef21d3",
-          "version": "1.0.2"
+          "revision": "60b7887c6f4051e5cb76b5faa0a7d6db510ddcb0",
+          "version": "1.2.0"
         }
       },
       {
